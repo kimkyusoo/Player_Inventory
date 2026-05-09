@@ -1,6 +1,6 @@
 # Player_Inventory
 
 ## 구현 영상
-<img width="1186" height="626" alt="20260509-1104-36 9862767" src="https://github.com/user-attachments/assets/4b850db7-cd58-4468-a044-2099f841c68f" />
+<img width="1190" height="606" alt="20260509-1144-28 3768374" src="https://github.com/user-attachments/assets/f1ffac94-55d4-4c80-8632-8a3d3b0b7b03" />
 
 
